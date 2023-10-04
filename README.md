@@ -9,3 +9,4 @@ My Resume web page
 Web version available [here](https://ruslan-yupyn-cv.netlify.app).
 
 - Added initialization of my resume page
+- updated contact information
