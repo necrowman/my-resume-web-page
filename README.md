@@ -19,6 +19,7 @@ Changelogs:
 - added JavaScript explanation link from tech skills
 - added HTML5 explanation link from tech skills
 - added CSS3 explanation link from tech skills
+- added GCD (Grand Central Dispatch) explanation link from tech skills
 
 - added initialization of my resume page
 - updated contact information
