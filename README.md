@@ -15,6 +15,7 @@ Changelogs:
 - added English level C1 sertificate link
 - added Swift explanation link from tech skills
 - added Objective-C explanation link from tech skills
+- added Flutter explanation link from tech skills
 
 - added initialization of my resume page
 - updated contact information
