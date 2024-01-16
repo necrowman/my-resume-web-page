@@ -10,6 +10,9 @@ Web version available [here](https://ruslan-yupyn-cv.netlify.app).
 
 Changelogs:
 
+# 2024-01-16
+- added English level C1 sertificate link
+
 - added initialization of my resume page
 - updated contact information
 - updated projects info
