@@ -18,6 +18,7 @@ Changelogs:
 - added Flutter explanation link from tech skills
 - added JavaScript explanation link from tech skills
 - added HTML5 explanation link from tech skills
+- added CSS3 explanation link from tech skills
 
 - added initialization of my resume page
 - updated contact information
