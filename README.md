@@ -26,6 +26,7 @@ Changelogs:
 - added MVC explanation link from tech skills
 - added MVC-C explanation link from tech skills
 - added MVP explanation link from tech skills
+- added MVVM explanation link from tech skills
 
 - added initialization of my resume page
 - updated contact information
