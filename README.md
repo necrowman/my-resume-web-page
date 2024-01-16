@@ -22,6 +22,7 @@ Changelogs:
 - added GCD (Grand Central Dispatch) explanation link from tech skills
 - added UIKit explanation link from tech skills
 - added UI Animations explanation link from tech skills
+- added Autolayout explanation link from tech skills
 
 - added initialization of my resume page
 - updated contact information
