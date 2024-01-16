@@ -24,6 +24,7 @@ Changelogs:
 - added UI Animations explanation link from tech skills
 - added Autolayout explanation link from tech skills
 - added MVC explanation link from tech skills
+- added MVC-C explanation link from tech skills
 
 - added initialization of my resume page
 - updated contact information
