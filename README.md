@@ -40,6 +40,7 @@ Changelogs:
 - added Agile explanation link from soft skills
 - added Kanban explanation link from soft skills
 - added Brainstorming explanation link from soft skills
+- added Teamwork explanation link from soft skills
 
 - added initialization of my resume page
 - updated contact information
