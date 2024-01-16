@@ -37,6 +37,7 @@ Changelogs:
 - added UserNotifications explanation link from tech skills
 - added UnitTests explanation link from tech skills
 - added Scrum explanation link from soft skills
+- added Agile explanation link from soft skills
 
 - added initialization of my resume page
 - updated contact information
