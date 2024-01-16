@@ -33,6 +33,7 @@ Changelogs:
 - added FRP (Functional Reactive Programming) explanation link from tech skills
 - added CoreTelephony explanation link from tech skills
 - added CoreData explanation link from tech skills
+- added CoreLocation explanation link from tech skills
 
 - added initialization of my resume page
 - updated contact information
