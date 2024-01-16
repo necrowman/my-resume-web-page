@@ -31,6 +31,7 @@ Changelogs:
 - added REST explanation link from tech skills
 - added Google Maps SDK explanation link from tech skills
 - added FRP (Functional Reactive Programming) explanation link from tech skills
+- added CoreTelephony explanation link from tech skills
 
 - added initialization of my resume page
 - updated contact information
