@@ -12,6 +12,7 @@ Changelogs:
 
 # 2024-01-16
 - added English level C1 sertificate link
+- added Swift ling from tech skills
 
 - added initialization of my resume page
 - updated contact information
