@@ -16,6 +16,7 @@ Changelogs:
 - added Swift explanation link from tech skills
 - added Objective-C explanation link from tech skills
 - added Flutter explanation link from tech skills
+- added JavaScript explanation link from tech skills
 
 - added initialization of my resume page
 - updated contact information
