@@ -10,6 +10,11 @@ Web version available [here](https://ruslan-yupyn-cv.netlify.app).
 
 Changelogs:
 
+# 2024-03-05
+
+- added SwiftyDropbox tech skills description;
+- added ZIPFoundation tech skills description;
+
 # 2024-01-16
 
 - added English level C1 sertificate link
