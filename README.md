@@ -10,6 +10,10 @@ Web version available [here](https://ruslan-yupyn-cv.netlify.app).
 
 Changelogs:
 
+# 2024-06-07
+
+- added GPDP agrrement to CV
+
 # 2024-03-05
 
 - added SwiftyDropbox tech skills description;

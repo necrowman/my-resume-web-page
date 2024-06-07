@@ -294,3 +294,10 @@ ul, ol {
 .education-content {
     margin-bottom: 40px;
 }
+
+.gpdp {
+    color: #115511;
+    font-size: 10 px;
+    font-weight: 700;
+    line-height: normal;
+}
